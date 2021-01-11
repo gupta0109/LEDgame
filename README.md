@@ -1,2 +1,2 @@
 # LEDgame
-![gif1](gif1/LEDgamegif.gif)
+![gif1](resources/LEDgamegif.gif)
