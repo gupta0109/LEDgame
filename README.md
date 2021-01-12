@@ -1,3 +1,3 @@
 # LEDgame
 ![gif1](resources/LEDgamegif.gif)
-![png1](resources/LEDgamecircuit.png)
+![png1](resources/LEDgameCircuit.png)
